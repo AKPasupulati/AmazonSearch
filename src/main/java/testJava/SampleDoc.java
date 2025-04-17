@@ -7,5 +7,8 @@ public class SampleDoc {
         } else {
             System.out.println("Both are not equal");
         }
+
+        System.out.println("this line will get every time");
+
     }
 }
