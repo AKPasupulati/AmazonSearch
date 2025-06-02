@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 
 public class tutorialsPoint {
 	WebDriver driver;
-	@BeforeTest
+	@BeforeTest    
 	public void WebDriverIntillization() {
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
