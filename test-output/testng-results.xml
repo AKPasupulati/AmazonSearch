@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-01T23:55:44 EDT" name="Default suite" finished-at="2025-06-01T23:55:49 EDT" duration-ms="5564">
+    <groups>
+    </groups>
+    <test started-at="2025-06-01T23:55:44 EDT" name="Default test" finished-at="2025-06-01T23:55:49 EDT" duration-ms="5564">
+      <class name="testScripts.tutorialsPoint">
+        <test-method is-config="true" signature="WebDriverIntillization()[pri:0, instance:testScripts.tutorialsPoint@33d512c1]" started-at="2025-06-01T23:55:44 EDT" name="WebDriverIntillization" finished-at="2025-06-01T23:55:48 EDT" duration-ms="3677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebDriverIntillization -->
+        <test-method signature="searchBox()[pri:0, instance:testScripts.tutorialsPoint@33d512c1]" started-at="2025-06-01T23:55:48 EDT" name="searchBox" finished-at="2025-06-01T23:55:49 EDT" duration-ms="1508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBox -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:testScripts.tutorialsPoint@33d512c1]" started-at="2025-06-01T23:55:49 EDT" name="quitDriver" finished-at="2025-06-01T23:55:49 EDT" duration-ms="339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- testScripts.tutorialsPoint -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
